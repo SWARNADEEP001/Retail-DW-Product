@@ -1,0 +1,51 @@
+customer_id,customer_name,customer_email,customer_segment,customer_city,customer_state,customer_country,signup_date
+1,Aryan Sharma,aryan.sharma@gmail.com,Regular,Bengaluru,Karnataka,India,2023-01-15
+2,Neha Verma,neha.verma@yahoo.com,Loyal,Mumbai,Maharashtra,India,2022-11-03
+3,Rahul Singh,rahul.singh@outlook.com,Premium,Delhi,Delhi,India,2021-07-21
+4,Ananya Das,ananya.das@gmail.com,Regular,Kolkata,West Bengal,India,2023-03-10
+5,Vikram Iyer,vikram.iyer@hotmail.com,Loyal,Chennai,Tamil Nadu,India,2022-05-19
+6,Shruti Mahajan,shruti.m26@gmail.com,Regular,Pune,Maharashtra,India,2024-02-01
+7,Rohan Gupta,rohan.gupta@rediffmail.com,Premium,Hyderabad,Telangana,India,2022-09-17
+8,Jasmine Kaur,jasmine.k@icloud.com,Loyal,Amritsar,Punjab,India,2021-12-11
+9,Aditya Mishra,adi.mishra@gmail.com,Regular,Lucknow,Uttar Pradesh,India,2023-10-04
+10,Kavita Nair,k.nair@yahoo.com,Premium,Kochi,Kerala,India,2021-06-18
+11,Ethan Brown,ethan.brown@gmail.com,Regular,New York,NY,USA,2022-12-22
+12,Sophia Wilson,sophiaw@yahoo.com,Loyal,Toronto,Ontario,Canada,2023-04-01
+13,Liam Johnson,liam.j@outlook.com,Premium,London,England,UK,2022-03-09
+14,Isabella Martinez,isabella.martinez@gmail.com,Regular,Madrid,Madrid,Spain,2023-02-27
+15,Noah Walker,noah.walker@yahoo.com,Regular,Sydney,NSW,Australia,2022-01-19
+16,Sara Ahmed,sara.ahmed@gmail.com,Loyal,Dubai,Dubai,UAE,2023-07-14
+17,Ritesh Chatterjee,ritesh.c@rediffmail.com,Premium,Noida,Uttar Pradesh,India,2021-05-03
+18,Megha Roy,megha.roy198@gmail.com,Regular,Guwahati,Assam,India,2023-09-29
+19,Yash Mehta,yashmehta@yahoo.com,Premium,Surat,Gujarat,India,2021-11-08
+20,Harshita Jain,harshita.jain@outlook.com,Regular,Bhopal,Madhya Pradesh,India,2023-04-12
+21,Arav Patel,arav.patel@gmail.com,Loyal,Ahmedabad,Gujarat,India,2021-02-17
+22,Nisha Kapoor,nisha.kapoor@yahoo.com,Premium,Delhi,Delhi,India,2020-12-03
+23,Sameer Khan,sameer.k@icloud.com,Regular,Indore,Madhya Pradesh,India,2023-05-27
+24,Priya Menon,priya.menon@gmail.com,Loyal,Trivandrum,Kerala,India,2022-07-25
+25,Kevin Jacob,kevin.jacob@outlook.com,Regular,Goa,Goa,India,2023-08-16
+26,Alex Parker,alexp@gmail.com,Premium,Singapore,Singapore,Singapore,2023-03-30
+27,Emily Carter,emily.carter@yahoo.com,Regular,Manchester,England,UK,2022-10-21
+28,Daniel Lewis,daniel.lewis@gmail.com,Loyal,Chicago,Illinois,USA,2021-06-13
+29,Grace Thompson,grace.t@icloud.com,Premium,Paris,Ile-de-France,France,2022-12-15
+30,Olivia Adams,olivia.adams@hotmail.com,Regular,Melbourne,Victoria,Australia,2023-01-07
+31,Naveen Talukdar,naveen.talukdar@gmail.com,Regular,Silchar,Assam,India,2022-02-19
+32,Soumya Jha,soumya.jha@yahoo.com,Premium,Patna,Bihar,India,2021-10-04
+33,Ankit Garg,ankit.garg@outlook.com,Loyal,Jaipur,Rajasthan,India,2022-09-09
+34,Asha Paul,asha.p@gmail.com,Regular,Ranchi,Jharkhand,India,2023-06-22
+35,Deepak Kumar,deepak.kumar@yahoo.com,Premium,Varanasi,Uttar Pradesh,India,2021-03-11
+36,Aadi Pandey,aadi.pandey@gmail.com,Regular,Agra,Uttar Pradesh,India,2023-03-17
+37,Ritika Bose,ritika.bose@icloud.com,Loyal,Kolkata,West Bengal,India,2022-04-21
+38,Sunny Malhotra,sunny.m@yahoo.com,Regular,Gurgaon,Haryana,India,2023-05-14
+39,Aman Kaur,aman.kaur@gmail.com,Premium,Chandigarh,Chandigarh,India,2021-11-30
+40,Tanya Rao,tanya.rao@hotmail.com,Regular,Mangalore,Karnataka,India,2023-01-12
+41,Vihaan Raj,vihaan.raj@gmail.com,Loyal,Nagpur,Maharashtra,India,2022-07-17
+42,Roshni B,Roshni.b@outlook.com,Regular,Mysuru,Karnataka,India,2023-09-03
+43,Jatin Shah,jatin.shah@gmail.com,Premium,Vadodara,Gujarat,India,2021-06-28
+44,Krish Bhatt,krish.bhatt@yahoo.com,Regular,Amreli,Gujarat,India,2023-10-10
+45,Pranav Sinha,pranav.sinha@icloud.com,Loyal,Gorakhpur,Uttar Pradesh,India,2022-02-14
+46,Ritika Sharma,ritika.s@gmail.com,Regular,Ajmer,Rajasthan,India,2023-04-10
+47,Ishan Noor,ishan.noor@yahoo.com,Premium,Dehradun,Uttrakhand,India,2021-05-25
+48,Kriti Joshi,kriti.joshi@gmail.com,Regular,Shimla,Himachal Pradesh,India,2023-06-12
+49,Ayush Raj,ayush.raj@outlook.com,Loyal,Ranchi,Jharkhand,India,2022-09-22
+50,Simran Kaur,simran.kaur@gmail.com,Premium,Kolkata,West Bengal,India,2021-12-18
