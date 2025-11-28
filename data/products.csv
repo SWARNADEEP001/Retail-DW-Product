@@ -1,0 +1,21 @@
+product_id,product_name,category,brand,unit_price,cost_price
+101,Wireless Mouse 2.4G,Electronics,LogiPro,799,450
+102,Mechanical Keyboard RGB,Electronics,KeyMaster,2599,1700
+103,Running Shoes - Men,Fashion,FastFeet,3499,2100
+104,Cotton T-Shirt - Unisex,Fashion,UrbanWear,699,300
+105,LED Monitor 24 inch,Electronics,ViewMax,8999,6200
+106,USB-C Fast Charger 25W,Electronics,ChargeIt,1299,750
+107,Bluetooth Earbuds Pro,Electronics,SonicBeat,2999,1800
+108,Laptop Backpack 15.6 inch,Accessories,BagWorks,1499,850
+109,Stainless Steel Water Bottle,Home,FreshSip,599,250
+110,Office Chair Ergonomic,Furniture,ComfySeat,7499,4800
+111,Smartphone Stand Adjustable,Accessories,GadgetHub,399,120
+112,Power Bank 10000mAh,Electronics,VoltPlus,1699,900
+113,Wireless Gaming Controller,Electronics,GameOn,3299,2100
+114,Fitness Band Waterproof,Electronics,FitTrack,2499,1500
+115,HD Webcam 1080p,Electronics,ClearView,2199,1400
+116,Desk Lamp LED,Home,BrightLite,899,400
+117,Notebook A5 Ruled,Stationery,PaperNest,199,60
+118,Gel Pen Pack of 10,Stationery,Inko,149,40
+119,Portable Speaker Bluetooth,Electronics,SoundWave,1899,1100
+120,Hoodie Fleece - Unisex,Fashion,UrbanWear,1599,850
