@@ -111,7 +111,7 @@ Retail-DW-Product/
 📎 Full Walkthrough:  
 **Retail Sales Analytics Dashboard**
 
-➡ `docs/retail_dw_dashboard_demo.mp4`
+➡ `docs/retail_dw_dashboard_demo.mp4.mp4`
 
 *(If GitHub preview doesn't autoplay, download to view.)*
 
