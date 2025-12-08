@@ -1,1 +1,4 @@
 *.sql linguist-language=SQL
+*.csv linguist-detectable=false
+*.png linguist-detectable=false
+*.drawio.png linguist-detectable=false
